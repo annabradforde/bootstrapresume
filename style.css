@@ -1,0 +1,76 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+
+	body {
+		margin: 70px 100px;
+		font: 15px sans-serif, verdana, helvetica;
+		line-height: 25px;
+
+		}
+
+	
+	h1 {
+		text-align: center;
+		text-transform: uppercase;
+		color: #a695de;
+		letter-spacing: 2px;
+		font-weight: normal;
+		font-size: 28px;
+		}
+
+
+	h2 {
+		text-align: center;
+		text-transform: uppercase;
+		letter-spacing: 2px;
+		border-bottom: 0.8px solid grey;
+		padding: 40px 0px 5px;
+		font-weight: normal;
+		font-size: 25px;
+		}
+
+	h3 {
+		font-size: 23px;
+	}
+
+	p.contact {
+		text-align: center;
+		color: #848285;
+		padding-bottom: 25px;
+		}
+
+	img {
+		height: auto;
+		width: 50%;
+	}
+
+	ul.a {
+		list-style-type: circle;
+		padding-left: 0;
+		text-align: left;
+		display: inline-block;
+		}
+
+
+	ul li {
+		list-style-position: inside;
+
+	}
+
+	a:link {
+		color: #a695de;
+		text-decoration: none;
+		}
+
+	a:visited {
+		color: #6b6091;
+		}
+
+	a:hover {
+		color: #a695de;
+		text-decoration: underline;
+		}
+
+	p.sub {
+		color: #848285;
+		}
